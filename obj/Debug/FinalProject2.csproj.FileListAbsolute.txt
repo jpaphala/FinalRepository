@@ -1,0 +1,5 @@
+C:\Users\Jantana\Desktop\FinalProject2\FinalProject2\bin\FinalProject2.dll
+C:\Users\Jantana\Desktop\FinalProject2\FinalProject2\bin\FinalProject2.pdb
+C:\Users\Jantana\Desktop\FinalProject2\FinalProject2\obj\Debug\FinalProject2.csprojResolveAssemblyReference.cache
+C:\Users\Jantana\Desktop\FinalProject2\FinalProject2\obj\Debug\FinalProject2.dll
+C:\Users\Jantana\Desktop\FinalProject2\FinalProject2\obj\Debug\FinalProject2.pdb
